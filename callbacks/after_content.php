@@ -1,0 +1,3 @@
+<?
+
+echo end_breadcrumb();
